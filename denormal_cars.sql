@@ -4,4 +4,4 @@
 
 -- SELECT DISTINCT make_code, model_code, model_title, year FROM car_models WHERE make_code = 'LAM';
 
--- SELECT DISTINCT * FROM car_models WHERE year BETWEEN 2010 AND 2015;
+-- SELECT * FROM car_models WHERE year BETWEEN 2010 AND 2015;
